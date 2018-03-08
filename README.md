@@ -2,7 +2,7 @@
 SSD
 
 
-Class ID:  
+Class ID:  Ferroseed
 
 SRS ID: CST116SRS06  
 
@@ -10,9 +10,9 @@ Unresolved Issues:
 
 Notes:  
 
-Partner Left:  
+Partner Left:  Ian Gaffney AKA Cottonee
 
-Partner Right:  
+Partner Right:  Patrick McDaniel AKA Feebus
 
 ---
 
